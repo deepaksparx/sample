@@ -1,3 +1,3 @@
-..
-git status
-
+<?php
+echo "Test";
+?>
